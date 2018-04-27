@@ -21,7 +21,7 @@ degradation in accuracy, and it reports the results.
        epsilon
      - [mnist_adv_test.ipynb](http://nbviewer.jupyter.org/github/emypar/metis-experience/blob/master/projects/kojak/mnist_adv_test.ipynb) - Run advesarial attack on a given model using a defense strategy and save the results
      - [mnist_test_gear.ipynb](http://nbviewer.jupyter.org/github/emypar/metis-experience/blob/master/projects/kojak/mnist_test_gear.ipynb) - Run Grid Search with Cross Validation for classifier hyperparameter tunning
-     - [mnist_adv_results.ipynb](mnist_adv_results.ipynb) - Aggregate test results
+     - [mnist_adv_results.ipynb](http://nbviewer.jupyter.org/github/emypar/metis-experience/blob/master/projects/kojak/mnist_adv_results.ipynb) - Aggregate test results
      - [mnist_knn_gscv.ipynb](http://nbviewer.jupyter.org/github/emypar/metis-experience/blob/master/projects/kojak/mnist_knn_gscv.ipynb), 
        [mnist_svc_gscv.ipynb](http://nbviewer.jupyter.org/github/emypar/metis-experience/blob/master/projects/kojak/mnist_svc_gscv.ipynb), 
        [mnist_lr_gscv.ipynb](http://nbviewer.jupyter.org/github/emypar/metis-experience/blob/master/projects/kojak/mnist_lr_gscv.ipynb) - 
