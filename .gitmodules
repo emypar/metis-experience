@@ -1,0 +1,3 @@
+[submodule "projects/kojak/cleverhans"]
+	path = projects/kojak/cleverhans
+	url = https://github.com/tensorflow/cleverhans
